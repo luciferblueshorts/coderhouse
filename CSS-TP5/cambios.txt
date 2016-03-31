@@ -1,0 +1,2 @@
+pasar todos los div a un <ul> y el resto tal cual está va todo
+dentro de un <li>
